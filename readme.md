@@ -7,7 +7,7 @@ Uses the following REST API's for model data
 http://api.open-notify.org/ - ISS Location  
 https://geocode.maps.co - Reverse Geocoding
 
-### Dependancies
+### Dependencies
 
 ```xml
 <dependency>
